@@ -1,0 +1,10 @@
+{
+  "format_version": 1,
+  "households": [{"id":"home-a","cohort":"slope-light","mobility":"gentle-grade","needs":[{"purpose":"clinic","depart":"08:10","return":"09:20"}]},{"id":"home-b","cohort":"all-day","mobility":"standard","needs":[{"purpose":"bus","depart":"15:40","return":"16:30"}]},{"id":"home-c","cohort":"slope-light","mobility":"gentle-grade","needs":[{"purpose":"bus","depart":"15:30","return":"16:20"},{"purpose":"clinic","depart":"08:15","return":"09:30"}]}],
+  "links": [{"id":"lane-a","from":"slope","to":"cross-1","minutes":8,"grade":"gentle","capacity":"open"},{"id":"lane-b","from":"cross-1","to":"village-gate","minutes":6,"grade":"steps","capacity":"open"},{"id":"lane-c","from":"slope","to":"cross-2","minutes":18,"grade":"gentle","capacity":"limited"},{"id":"lane-d","from":"cross-2","to":"village-gate","minutes":5,"grade":"gentle","capacity":"open"}],
+  "closures": [{"id":"layout-01","link":"lane-b","start":"15:20","end":"16:00","status":"proposed"},{"id":"layout-02","link":"lane-c","start":"15:45","end":"16:15","status":"proposed"}],
+  "observations": [{"id":"trip-01","household":"home-a","start":"08:05","end":"08:22","links":["lane-a","lane-b"],"purpose":"clinic"},{"id":"trip-02","household":"home-b","start":"15:31","end":"15:47","links":["lane-a","lane-b"],"purpose":"bus"}],
+  "windows": [{"id":"window-01","link":"lane-a","start":"08:00","end":"10:00","observed_minutes":55,"scheduled_minutes":120},{"id":"window-02","link":"lane-b","start":"15:00","end":"17:00","observed_minutes":80,"scheduled_minutes":120}],
+  "bridges": [{"id":"bridge-01","link":"lane-c","start":"15:45","end":"16:15","access":"staff-only","changed_at":"2026-08-12T14:00:00"}],
+  "agreements": [{"id":"access-01","cohort":"slope-light","period":"all-day","guarantee":"gentle-grade-route"}]
+}
