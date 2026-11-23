@@ -1,0 +1,2326 @@
+{
+  "format_version": 1,
+  "journeys": [
+    {
+      "id": "vreq-0-0",
+      "household": "h-0",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 0
+    },
+    {
+      "id": "vreq-0-1",
+      "household": "h-1",
+      "cohort": "standard",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 0
+    },
+    {
+      "id": "vreq-0-2",
+      "household": "h-2",
+      "cohort": "gentle",
+      "origin": "well",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 0
+    },
+    {
+      "id": "vreq-0-3",
+      "household": "h-3",
+      "cohort": "no-stairs",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 0
+    },
+    {
+      "id": "vreq-0-4",
+      "household": "h-4",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 0
+    },
+    {
+      "id": "vreq-0-5",
+      "household": "h-5",
+      "cohort": "standard",
+      "origin": "well",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 0
+    },
+    {
+      "id": "vreq-0-6",
+      "household": "h-6",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 0
+    },
+    {
+      "id": "vreq-0-7",
+      "household": "h-7",
+      "cohort": "no-stairs",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 0
+    },
+    {
+      "id": "vreq-0-8",
+      "household": "h-8",
+      "cohort": "gentle",
+      "origin": "well",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 0
+    },
+    {
+      "id": "vreq-0-9",
+      "household": "h-9",
+      "cohort": "standard",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 0
+    },
+    {
+      "id": "vreq-0-10",
+      "household": "h-10",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 0
+    },
+    {
+      "id": "vreq-0-11",
+      "household": "h-11",
+      "cohort": "no-stairs",
+      "origin": "well",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 0
+    },
+    {
+      "id": "vreq-0-12",
+      "household": "h-12",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 0
+    },
+    {
+      "id": "vreq-1-0",
+      "household": "h-0",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 1
+    },
+    {
+      "id": "vreq-1-1",
+      "household": "h-1",
+      "cohort": "standard",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 1
+    },
+    {
+      "id": "vreq-1-2",
+      "household": "h-2",
+      "cohort": "gentle",
+      "origin": "well",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 1
+    },
+    {
+      "id": "vreq-1-3",
+      "household": "h-3",
+      "cohort": "no-stairs",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 1
+    },
+    {
+      "id": "vreq-1-4",
+      "household": "h-4",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 1
+    },
+    {
+      "id": "vreq-1-5",
+      "household": "h-5",
+      "cohort": "standard",
+      "origin": "well",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 1
+    },
+    {
+      "id": "vreq-1-6",
+      "household": "h-6",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 1
+    },
+    {
+      "id": "vreq-1-7",
+      "household": "h-7",
+      "cohort": "no-stairs",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 1
+    },
+    {
+      "id": "vreq-1-8",
+      "household": "h-8",
+      "cohort": "gentle",
+      "origin": "well",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 1
+    },
+    {
+      "id": "vreq-1-9",
+      "household": "h-9",
+      "cohort": "standard",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 1
+    },
+    {
+      "id": "vreq-1-10",
+      "household": "h-10",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 1
+    },
+    {
+      "id": "vreq-1-11",
+      "household": "h-11",
+      "cohort": "no-stairs",
+      "origin": "well",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 1
+    },
+    {
+      "id": "vreq-1-12",
+      "household": "h-12",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 1
+    },
+    {
+      "id": "vreq-2-0",
+      "household": "h-0",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 2
+    },
+    {
+      "id": "vreq-2-1",
+      "household": "h-1",
+      "cohort": "standard",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 2
+    },
+    {
+      "id": "vreq-2-2",
+      "household": "h-2",
+      "cohort": "gentle",
+      "origin": "well",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 2
+    },
+    {
+      "id": "vreq-2-3",
+      "household": "h-3",
+      "cohort": "no-stairs",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 2
+    },
+    {
+      "id": "vreq-2-4",
+      "household": "h-4",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 2
+    },
+    {
+      "id": "vreq-2-5",
+      "household": "h-5",
+      "cohort": "standard",
+      "origin": "well",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 2
+    },
+    {
+      "id": "vreq-2-6",
+      "household": "h-6",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 2
+    },
+    {
+      "id": "vreq-2-7",
+      "household": "h-7",
+      "cohort": "no-stairs",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 2
+    },
+    {
+      "id": "vreq-2-8",
+      "household": "h-8",
+      "cohort": "gentle",
+      "origin": "well",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 2
+    },
+    {
+      "id": "vreq-2-9",
+      "household": "h-9",
+      "cohort": "standard",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 2
+    },
+    {
+      "id": "vreq-2-10",
+      "household": "h-10",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 2
+    },
+    {
+      "id": "vreq-2-11",
+      "household": "h-11",
+      "cohort": "no-stairs",
+      "origin": "well",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 2
+    },
+    {
+      "id": "vreq-2-12",
+      "household": "h-12",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 2
+    },
+    {
+      "id": "vreq-3-0",
+      "household": "h-0",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 3
+    },
+    {
+      "id": "vreq-3-1",
+      "household": "h-1",
+      "cohort": "standard",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 3
+    },
+    {
+      "id": "vreq-3-2",
+      "household": "h-2",
+      "cohort": "gentle",
+      "origin": "well",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 3
+    },
+    {
+      "id": "vreq-3-3",
+      "household": "h-3",
+      "cohort": "no-stairs",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 3
+    },
+    {
+      "id": "vreq-3-4",
+      "household": "h-4",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 3
+    },
+    {
+      "id": "vreq-3-5",
+      "household": "h-5",
+      "cohort": "standard",
+      "origin": "well",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 3
+    },
+    {
+      "id": "vreq-3-6",
+      "household": "h-6",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 3
+    },
+    {
+      "id": "vreq-3-7",
+      "household": "h-7",
+      "cohort": "no-stairs",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 3
+    },
+    {
+      "id": "vreq-3-8",
+      "household": "h-8",
+      "cohort": "gentle",
+      "origin": "well",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 3
+    },
+    {
+      "id": "vreq-3-9",
+      "household": "h-9",
+      "cohort": "standard",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 3
+    },
+    {
+      "id": "vreq-3-10",
+      "household": "h-10",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 3
+    },
+    {
+      "id": "vreq-3-11",
+      "household": "h-11",
+      "cohort": "no-stairs",
+      "origin": "well",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 3
+    },
+    {
+      "id": "vreq-3-12",
+      "household": "h-12",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 3
+    },
+    {
+      "id": "vreq-4-0",
+      "household": "h-0",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 4
+    },
+    {
+      "id": "vreq-4-1",
+      "household": "h-1",
+      "cohort": "standard",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 4
+    },
+    {
+      "id": "vreq-4-2",
+      "household": "h-2",
+      "cohort": "gentle",
+      "origin": "well",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 4
+    },
+    {
+      "id": "vreq-4-3",
+      "household": "h-3",
+      "cohort": "no-stairs",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 4
+    },
+    {
+      "id": "vreq-4-4",
+      "household": "h-4",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 4
+    },
+    {
+      "id": "vreq-4-5",
+      "household": "h-5",
+      "cohort": "standard",
+      "origin": "well",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 4
+    },
+    {
+      "id": "vreq-4-6",
+      "household": "h-6",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 4
+    },
+    {
+      "id": "vreq-4-7",
+      "household": "h-7",
+      "cohort": "no-stairs",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 4
+    },
+    {
+      "id": "vreq-4-8",
+      "household": "h-8",
+      "cohort": "gentle",
+      "origin": "well",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 4
+    },
+    {
+      "id": "vreq-4-9",
+      "household": "h-9",
+      "cohort": "standard",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 4
+    },
+    {
+      "id": "vreq-4-10",
+      "household": "h-10",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 4
+    },
+    {
+      "id": "vreq-4-11",
+      "household": "h-11",
+      "cohort": "no-stairs",
+      "origin": "well",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 4
+    },
+    {
+      "id": "vreq-4-12",
+      "household": "h-12",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 4
+    },
+    {
+      "id": "vreq-5-0",
+      "household": "h-0",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 5
+    },
+    {
+      "id": "vreq-5-1",
+      "household": "h-1",
+      "cohort": "standard",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 5
+    },
+    {
+      "id": "vreq-5-2",
+      "household": "h-2",
+      "cohort": "gentle",
+      "origin": "well",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 5
+    },
+    {
+      "id": "vreq-5-3",
+      "household": "h-3",
+      "cohort": "no-stairs",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 5
+    },
+    {
+      "id": "vreq-5-4",
+      "household": "h-4",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 5
+    },
+    {
+      "id": "vreq-5-5",
+      "household": "h-5",
+      "cohort": "standard",
+      "origin": "well",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 5
+    },
+    {
+      "id": "vreq-5-6",
+      "household": "h-6",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 5
+    },
+    {
+      "id": "vreq-5-7",
+      "household": "h-7",
+      "cohort": "no-stairs",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 5
+    },
+    {
+      "id": "vreq-5-8",
+      "household": "h-8",
+      "cohort": "gentle",
+      "origin": "well",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 5
+    },
+    {
+      "id": "vreq-5-9",
+      "household": "h-9",
+      "cohort": "standard",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 5
+    },
+    {
+      "id": "vreq-5-10",
+      "household": "h-10",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 5
+    },
+    {
+      "id": "vreq-5-11",
+      "household": "h-11",
+      "cohort": "no-stairs",
+      "origin": "well",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 5
+    },
+    {
+      "id": "vreq-5-12",
+      "household": "h-12",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 5
+    },
+    {
+      "id": "vreq-6-0",
+      "household": "h-0",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 6
+    },
+    {
+      "id": "vreq-6-1",
+      "household": "h-1",
+      "cohort": "standard",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 6
+    },
+    {
+      "id": "vreq-6-2",
+      "household": "h-2",
+      "cohort": "gentle",
+      "origin": "well",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 6
+    },
+    {
+      "id": "vreq-6-3",
+      "household": "h-3",
+      "cohort": "no-stairs",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 6
+    },
+    {
+      "id": "vreq-6-4",
+      "household": "h-4",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 6
+    },
+    {
+      "id": "vreq-6-5",
+      "household": "h-5",
+      "cohort": "standard",
+      "origin": "well",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 6
+    },
+    {
+      "id": "vreq-6-6",
+      "household": "h-6",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 6
+    },
+    {
+      "id": "vreq-6-7",
+      "household": "h-7",
+      "cohort": "no-stairs",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 6
+    },
+    {
+      "id": "vreq-6-8",
+      "household": "h-8",
+      "cohort": "gentle",
+      "origin": "well",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 6
+    },
+    {
+      "id": "vreq-6-9",
+      "household": "h-9",
+      "cohort": "standard",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 6
+    },
+    {
+      "id": "vreq-6-10",
+      "household": "h-10",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 6
+    },
+    {
+      "id": "vreq-6-11",
+      "household": "h-11",
+      "cohort": "no-stairs",
+      "origin": "well",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 6
+    },
+    {
+      "id": "vreq-6-12",
+      "household": "h-12",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "clinic",
+      "ready_at": "08:10",
+      "arrival_deadline": "08:40",
+      "service_minutes": 15,
+      "return_deadline": "09:28",
+      "week": 6
+    },
+    {
+      "id": "vreq-7-0",
+      "household": "h-0",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 7
+    },
+    {
+      "id": "vreq-7-1",
+      "household": "h-1",
+      "cohort": "standard",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 7
+    },
+    {
+      "id": "vreq-7-2",
+      "household": "h-2",
+      "cohort": "gentle",
+      "origin": "well",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 7
+    },
+    {
+      "id": "vreq-7-3",
+      "household": "h-3",
+      "cohort": "no-stairs",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 7
+    },
+    {
+      "id": "vreq-7-4",
+      "household": "h-4",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 7
+    },
+    {
+      "id": "vreq-7-5",
+      "household": "h-5",
+      "cohort": "standard",
+      "origin": "well",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 7
+    },
+    {
+      "id": "vreq-7-6",
+      "household": "h-6",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 7
+    },
+    {
+      "id": "vreq-7-7",
+      "household": "h-7",
+      "cohort": "no-stairs",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 7
+    },
+    {
+      "id": "vreq-7-8",
+      "household": "h-8",
+      "cohort": "gentle",
+      "origin": "well",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 7
+    },
+    {
+      "id": "vreq-7-9",
+      "household": "h-9",
+      "cohort": "standard",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 7
+    },
+    {
+      "id": "vreq-7-10",
+      "household": "h-10",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 7
+    },
+    {
+      "id": "vreq-7-11",
+      "household": "h-11",
+      "cohort": "no-stairs",
+      "origin": "well",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 7
+    },
+    {
+      "id": "vreq-7-12",
+      "household": "h-12",
+      "cohort": "gentle",
+      "origin": "hill",
+      "destination": "station",
+      "ready_at": "15:28",
+      "arrival_deadline": "15:57",
+      "service_minutes": 15,
+      "return_deadline": "17:00",
+      "week": 7
+    }
+  ],
+  "path_observations": [
+    {
+      "request": "vreq-0-1",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 17,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-08-01"
+    },
+    {
+      "request": "vreq-0-2",
+      "route": [
+        "well-arc",
+        "clinic-arc"
+      ],
+      "minutes": 18,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-08-01"
+    },
+    {
+      "request": "vreq-0-3",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 19,
+      "selection_probability": 0.3,
+      "observed": true,
+      "date": "2026-08-01"
+    },
+    {
+      "request": "vreq-0-4",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 20,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-08-01"
+    },
+    {
+      "request": "vreq-0-5",
+      "route": [
+        "well-arc",
+        "clinic-arc"
+      ],
+      "minutes": 21,
+      "selection_probability": 0.7,
+      "observed": false,
+      "date": "2026-08-01"
+    },
+    {
+      "request": "vreq-0-7",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 23,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-08-01"
+    },
+    {
+      "request": "vreq-0-8",
+      "route": [
+        "well-arc",
+        "clinic-arc"
+      ],
+      "minutes": 24,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-08-01"
+    },
+    {
+      "request": "vreq-0-9",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 25,
+      "selection_probability": 0.3,
+      "observed": true,
+      "date": "2026-08-01"
+    },
+    {
+      "request": "vreq-0-10",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 16,
+      "selection_probability": 0.5,
+      "observed": false,
+      "date": "2026-08-01"
+    },
+    {
+      "request": "vreq-0-11",
+      "route": [
+        "well-arc",
+        "clinic-arc"
+      ],
+      "minutes": 17,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-08-01"
+    },
+    {
+      "request": "vreq-1-0",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 17,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-08-08"
+    },
+    {
+      "request": "vreq-1-1",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 18,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-08-08"
+    },
+    {
+      "request": "vreq-1-2",
+      "route": [
+        "well-arc",
+        "gate-arc"
+      ],
+      "minutes": 19,
+      "selection_probability": 0.3,
+      "observed": true,
+      "date": "2026-08-08"
+    },
+    {
+      "request": "vreq-1-3",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 20,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-08-08"
+    },
+    {
+      "request": "vreq-1-4",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 21,
+      "selection_probability": 0.7,
+      "observed": false,
+      "date": "2026-08-08"
+    },
+    {
+      "request": "vreq-1-6",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 23,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-08-08"
+    },
+    {
+      "request": "vreq-1-7",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 24,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-08-08"
+    },
+    {
+      "request": "vreq-1-8",
+      "route": [
+        "well-arc",
+        "gate-arc"
+      ],
+      "minutes": 25,
+      "selection_probability": 0.3,
+      "observed": true,
+      "date": "2026-08-08"
+    },
+    {
+      "request": "vreq-1-9",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 16,
+      "selection_probability": 0.5,
+      "observed": false,
+      "date": "2026-08-08"
+    },
+    {
+      "request": "vreq-1-10",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 17,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-08-08"
+    },
+    {
+      "request": "vreq-1-12",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 19,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-08-08"
+    },
+    {
+      "request": "vreq-2-0",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 18,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-08-15"
+    },
+    {
+      "request": "vreq-2-1",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 19,
+      "selection_probability": 0.3,
+      "observed": true,
+      "date": "2026-08-15"
+    },
+    {
+      "request": "vreq-2-2",
+      "route": [
+        "well-arc",
+        "clinic-arc"
+      ],
+      "minutes": 20,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-08-15"
+    },
+    {
+      "request": "vreq-2-3",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 21,
+      "selection_probability": 0.7,
+      "observed": false,
+      "date": "2026-08-15"
+    },
+    {
+      "request": "vreq-2-5",
+      "route": [
+        "well-arc",
+        "clinic-arc"
+      ],
+      "minutes": 23,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-08-15"
+    },
+    {
+      "request": "vreq-2-6",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 24,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-08-15"
+    },
+    {
+      "request": "vreq-2-7",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 25,
+      "selection_probability": 0.3,
+      "observed": true,
+      "date": "2026-08-15"
+    },
+    {
+      "request": "vreq-2-8",
+      "route": [
+        "well-arc",
+        "clinic-arc"
+      ],
+      "minutes": 16,
+      "selection_probability": 0.5,
+      "observed": false,
+      "date": "2026-08-15"
+    },
+    {
+      "request": "vreq-2-9",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 17,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-08-15"
+    },
+    {
+      "request": "vreq-2-11",
+      "route": [
+        "well-arc",
+        "clinic-arc"
+      ],
+      "minutes": 19,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-08-15"
+    },
+    {
+      "request": "vreq-2-12",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 20,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-08-15"
+    },
+    {
+      "request": "vreq-3-0",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 19,
+      "selection_probability": 0.3,
+      "observed": true,
+      "date": "2026-08-22"
+    },
+    {
+      "request": "vreq-3-1",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 20,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-08-22"
+    },
+    {
+      "request": "vreq-3-2",
+      "route": [
+        "well-arc",
+        "gate-arc"
+      ],
+      "minutes": 21,
+      "selection_probability": 0.7,
+      "observed": false,
+      "date": "2026-08-22"
+    },
+    {
+      "request": "vreq-3-4",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 23,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-08-22"
+    },
+    {
+      "request": "vreq-3-5",
+      "route": [
+        "well-arc",
+        "gate-arc"
+      ],
+      "minutes": 24,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-08-22"
+    },
+    {
+      "request": "vreq-3-6",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 25,
+      "selection_probability": 0.3,
+      "observed": true,
+      "date": "2026-08-22"
+    },
+    {
+      "request": "vreq-3-7",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 16,
+      "selection_probability": 0.5,
+      "observed": false,
+      "date": "2026-08-22"
+    },
+    {
+      "request": "vreq-3-8",
+      "route": [
+        "well-arc",
+        "gate-arc"
+      ],
+      "minutes": 17,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-08-22"
+    },
+    {
+      "request": "vreq-3-10",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 19,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-08-22"
+    },
+    {
+      "request": "vreq-3-11",
+      "route": [
+        "well-arc",
+        "gate-arc"
+      ],
+      "minutes": 20,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-08-22"
+    },
+    {
+      "request": "vreq-3-12",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 21,
+      "selection_probability": 0.3,
+      "observed": false,
+      "date": "2026-08-22"
+    },
+    {
+      "request": "vreq-4-0",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 20,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-08-29"
+    },
+    {
+      "request": "vreq-4-1",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 21,
+      "selection_probability": 0.7,
+      "observed": false,
+      "date": "2026-08-29"
+    },
+    {
+      "request": "vreq-4-3",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 23,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-08-29"
+    },
+    {
+      "request": "vreq-4-4",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 24,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-08-29"
+    },
+    {
+      "request": "vreq-4-5",
+      "route": [
+        "well-arc",
+        "clinic-arc"
+      ],
+      "minutes": 25,
+      "selection_probability": 0.3,
+      "observed": true,
+      "date": "2026-08-29"
+    },
+    {
+      "request": "vreq-4-6",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 16,
+      "selection_probability": 0.5,
+      "observed": false,
+      "date": "2026-08-29"
+    },
+    {
+      "request": "vreq-4-7",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 17,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-08-29"
+    },
+    {
+      "request": "vreq-4-9",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 19,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-08-29"
+    },
+    {
+      "request": "vreq-4-10",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 20,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-08-29"
+    },
+    {
+      "request": "vreq-4-11",
+      "route": [
+        "well-arc",
+        "clinic-arc"
+      ],
+      "minutes": 21,
+      "selection_probability": 0.3,
+      "observed": false,
+      "date": "2026-08-29"
+    },
+    {
+      "request": "vreq-4-12",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 22,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-08-29"
+    },
+    {
+      "request": "vreq-5-0",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 21,
+      "selection_probability": 0.7,
+      "observed": false,
+      "date": "2026-09-05"
+    },
+    {
+      "request": "vreq-5-2",
+      "route": [
+        "well-arc",
+        "gate-arc"
+      ],
+      "minutes": 23,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-09-05"
+    },
+    {
+      "request": "vreq-5-3",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 24,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-09-05"
+    },
+    {
+      "request": "vreq-5-4",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 25,
+      "selection_probability": 0.3,
+      "observed": true,
+      "date": "2026-09-05"
+    },
+    {
+      "request": "vreq-5-5",
+      "route": [
+        "well-arc",
+        "gate-arc"
+      ],
+      "minutes": 16,
+      "selection_probability": 0.5,
+      "observed": false,
+      "date": "2026-09-05"
+    },
+    {
+      "request": "vreq-5-6",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 17,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-09-05"
+    },
+    {
+      "request": "vreq-5-8",
+      "route": [
+        "well-arc",
+        "gate-arc"
+      ],
+      "minutes": 19,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-09-05"
+    },
+    {
+      "request": "vreq-5-9",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 20,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-09-05"
+    },
+    {
+      "request": "vreq-5-10",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 21,
+      "selection_probability": 0.3,
+      "observed": false,
+      "date": "2026-09-05"
+    },
+    {
+      "request": "vreq-5-11",
+      "route": [
+        "well-arc",
+        "gate-arc"
+      ],
+      "minutes": 22,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-09-05"
+    },
+    {
+      "request": "vreq-5-12",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 23,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-09-05"
+    },
+    {
+      "request": "vreq-6-1",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 23,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-09-12"
+    },
+    {
+      "request": "vreq-6-2",
+      "route": [
+        "well-arc",
+        "clinic-arc"
+      ],
+      "minutes": 24,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-09-12"
+    },
+    {
+      "request": "vreq-6-3",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 25,
+      "selection_probability": 0.3,
+      "observed": true,
+      "date": "2026-09-12"
+    },
+    {
+      "request": "vreq-6-4",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 16,
+      "selection_probability": 0.5,
+      "observed": false,
+      "date": "2026-09-12"
+    },
+    {
+      "request": "vreq-6-5",
+      "route": [
+        "well-arc",
+        "clinic-arc"
+      ],
+      "minutes": 17,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-09-12"
+    },
+    {
+      "request": "vreq-6-7",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 19,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-09-12"
+    },
+    {
+      "request": "vreq-6-8",
+      "route": [
+        "well-arc",
+        "clinic-arc"
+      ],
+      "minutes": 20,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-09-12"
+    },
+    {
+      "request": "vreq-6-9",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 21,
+      "selection_probability": 0.3,
+      "observed": false,
+      "date": "2026-09-12"
+    },
+    {
+      "request": "vreq-6-10",
+      "route": [
+        "hill-arc",
+        "clinic-arc"
+      ],
+      "minutes": 22,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-09-12"
+    },
+    {
+      "request": "vreq-6-11",
+      "route": [
+        "well-arc",
+        "clinic-arc"
+      ],
+      "minutes": 23,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-09-12"
+    },
+    {
+      "request": "vreq-7-0",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 23,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-09-19"
+    },
+    {
+      "request": "vreq-7-1",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 24,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-09-19"
+    },
+    {
+      "request": "vreq-7-2",
+      "route": [
+        "well-arc",
+        "gate-arc"
+      ],
+      "minutes": 25,
+      "selection_probability": 0.3,
+      "observed": true,
+      "date": "2026-09-19"
+    },
+    {
+      "request": "vreq-7-3",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 16,
+      "selection_probability": 0.5,
+      "observed": false,
+      "date": "2026-09-19"
+    },
+    {
+      "request": "vreq-7-4",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 17,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-09-19"
+    },
+    {
+      "request": "vreq-7-6",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 19,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-09-19"
+    },
+    {
+      "request": "vreq-7-7",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 20,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-09-19"
+    },
+    {
+      "request": "vreq-7-8",
+      "route": [
+        "well-arc",
+        "gate-arc"
+      ],
+      "minutes": 21,
+      "selection_probability": 0.3,
+      "observed": false,
+      "date": "2026-09-19"
+    },
+    {
+      "request": "vreq-7-9",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 22,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-09-19"
+    },
+    {
+      "request": "vreq-7-10",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 23,
+      "selection_probability": 0.7,
+      "observed": true,
+      "date": "2026-09-19"
+    },
+    {
+      "request": "vreq-7-12",
+      "route": [
+        "hill-arc",
+        "gate-arc"
+      ],
+      "minutes": 25,
+      "selection_probability": 0.5,
+      "observed": true,
+      "date": "2026-09-19"
+    }
+  ],
+  "links": [
+    {
+      "id": "hill-arc",
+      "a": "hill",
+      "b": "gate",
+      "minutes": 11,
+      "slope": "moderate",
+      "steps": false
+    },
+    {
+      "id": "well-arc",
+      "a": "well",
+      "b": "gate",
+      "minutes": 7,
+      "slope": "gentle",
+      "steps": false
+    },
+    {
+      "id": "ramp-arc",
+      "a": "hill",
+      "b": "well",
+      "minutes": 12,
+      "slope": "gentle",
+      "steps": false
+    },
+    {
+      "id": "gate-arc",
+      "a": "gate",
+      "b": "station",
+      "minutes": 6,
+      "slope": "gentle",
+      "steps": false
+    },
+    {
+      "id": "clinic-arc",
+      "a": "gate",
+      "b": "clinic",
+      "minutes": 8,
+      "slope": "gentle",
+      "steps": false
+    },
+    {
+      "id": "shortcut",
+      "a": "hill",
+      "b": "station",
+      "minutes": 6,
+      "slope": "steep",
+      "steps": true
+    }
+  ],
+  "service_hours": [
+    {
+      "id": "clinic",
+      "daily_intervals": [
+        "08:20-09:20"
+      ]
+    },
+    {
+      "id": "station",
+      "daily_intervals": [
+        "15:35-15:57",
+        "16:35-16:55"
+      ]
+    }
+  ],
+  "layouts": [
+    {
+      "id": "block-a",
+      "link": "hill-arc",
+      "from_time": "15:27",
+      "to_time": "15:39",
+      "state": "confirmed"
+    },
+    {
+      "id": "block-b",
+      "link": "well-arc",
+      "from_time": "15:38",
+      "to_time": "15:49",
+      "state": "proposed"
+    },
+    {
+      "id": "block-c",
+      "link": "ramp-arc",
+      "from_time": "15:36",
+      "to_time": "15:47",
+      "state": "proposed"
+    },
+    {
+      "id": "block-d",
+      "link": "clinic-arc",
+      "from_time": "08:50",
+      "to_time": "08:56",
+      "state": "proposed"
+    }
+  ],
+  "commitments": [
+    {
+      "id": "resident-m",
+      "cohort": "gentle",
+      "purposes": [
+        "clinic",
+        "station"
+      ],
+      "max_extra_minutes": 12,
+      "access_at": "always"
+    },
+    {
+      "id": "resident-s",
+      "cohort": "no-stairs",
+      "purposes": [
+        "station"
+      ],
+      "max_extra_minutes": 8,
+      "access_at": "15:15-16:15"
+    }
+  ],
+  "restriction_updates": [
+    {
+      "link": "ramp-arc",
+      "from_time": "15:33",
+      "to_time": "16:15",
+      "allowed_party": "staff",
+      "received_at": "2026-10-01T13:00:00"
+    }
+  ]
+}
